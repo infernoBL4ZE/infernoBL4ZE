@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @infernoBL4ZE
-- 👀 I’m interested in learning all sorts of computer languages
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning C,CPP and PyTorch
 - 📫 How to reach me: 
 - infernoBL4ZE#6398 on Discord
 - Tahmid Zahin on Facebook
